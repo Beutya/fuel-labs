@@ -1,5 +1,13 @@
 # @fuel-ts/versions
 
+## 0.70.0
+
+### Minor Changes
+
+- Encode and decode u8 and bool as small bytes and right aligned under various conditions, by [@Torres-ssf](https://github.com/Torres-ssf) (See [#1437](https://github.com/FuelLabs/fuels-ts/pull/1437))
+- Upgrading `fuel-core` to `0.22`, by [@arboleya](https://github.com/arboleya) (See [#1511](https://github.com/FuelLabs/fuels-ts/pull/1511))
+- add support for TX policies, by [@Torres-ssf](https://github.com/Torres-ssf) (See [#1437](https://github.com/FuelLabs/fuels-ts/pull/1437))
+
 ## 0.69.1
 
 ## 0.69.0
